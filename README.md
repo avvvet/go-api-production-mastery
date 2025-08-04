@@ -4,7 +4,8 @@ we are to apply to master API design and golang. At last we are going to be able
 enterprise level, production ready api service.  
 
 
-participants:
+participants: 
 
 1. Musie Samuel (night-fury-master)
-2. Angel Awet (p-16-3)
+2. Christian (p-4-20)
+3. Angel (p-16-3)
